@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 59954c9ce4c013c4c8364d71855978d1
+guid: 0ace6875197a4a444bd822c42e1fda8c
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
-    second: Run With Sword
+    second: Sword Slash
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -36,11 +36,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Run With Sword
+      name: Sword Slash
       takeName: mixamo.com
       internalID: 0
       firstFrame: 0
-      lastFrame: 24
+      lastFrame: 52
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
